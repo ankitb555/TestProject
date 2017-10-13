@@ -1,0 +1,4 @@
+adfasdfedfasdf
+This is for rollback
+modified
+file 3 is modified for reset
